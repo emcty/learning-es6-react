@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "dev": "webpack-dev-server --inline --hot"
+    "dev": "webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
@@ -21,7 +21,10 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
+    "babel-preset-stage-0": "^6.5.0",
+    "history": "^3.0.0",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react-dom": "^15.3.0",
+    "react-router": "^2.6.1"
   }
 }

@@ -18,3 +18,8 @@
   "plugins": ["transform-class-properties"]
 }
 ```
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 392d33b0b0f76eddfe41813fd15cc9ce031bb5f2
